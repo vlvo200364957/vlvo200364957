@@ -1,73 +1,95 @@
-# 김태영
+<div align="center">
 
-## UI/UX Designer · AI & Web Learner
+# KIM TAEYOUNG
 
-**UI/UX 디자인**을 기반으로 웹과 AI 기술을 공부하고 있습니다.  
-사용자가 보기 편하고 자연스럽게 사용할 수 있는 화면을 고민하며,  
-디자인뿐만 아니라 직접 구현하고 데이터를 다루는 과정도 함께 배우고 있습니다.
+### UI/UX Designer · AI & Web Learner
 
-> 하나씩 배우고, 직접 만들어보며 꾸준히 성장하고 있습니다.
+사용자의 경험을 고민하고,  
+디자인과 기술을 함께 배우며 직접 만들어가고 있습니다.
 
----
+<br>
 
-### 관심 분야
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vlvo200364957)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-- 🎨 UI/UX Design
-- 🌐 Web Design & Web Development
-- 🤖 AI 활용
-- 🐍 Python
-- 📊 Data & Machine Learning
-
----
-
-### 배우고 있는 것
-
-1. Figma를 활용한 UI/UX 디자인
-2. HTML / CSS를 활용한 웹 구현
-3. Python과 Pandas를 활용한 데이터 분석
-4. Machine Learning 기초
-5. Git & GitHub를 활용한 프로젝트 관리
-6. AI를 디자인과 개발 과정에 활용하기
+</div>
 
 ---
 
-### Tools & Skills
+## ABOUT
 
-`Figma` `Photoshop` `HTML` `CSS` `Python` `Pandas` `Scikit-learn` `Git` `GitHub`
+묵묵히 고민하고 끝까지 책임지는 디자이너입니다.
+
+UI/UX 디자인을 공부하며 사용자가 편하게 사용할 수 있는 화면과  
+서비스의 흐름을 고민하고 있습니다.
+
+최근에는 Python, 데이터 분석, 머신러닝과 AI를 공부하며  
+디자인에 기술을 더하는 방법을 배우고 있습니다.
 
 ---
 
-### Projects & Study
+## WHAT I DO
 
-| 분야 | 내용 |
+| AREA | FOCUS |
 | --- | --- |
-| UI/UX | 웹페이지 및 UI/UX 디자인 |
-| Web | HTML / CSS 기반 웹 제작 |
-| Python | Python 기초 및 데이터 처리 |
-| Data | Pandas를 활용한 데이터 분석 |
-| ML | Scikit-learn을 활용한 머신러닝 학습 |
-| AI | AI를 활용한 디자인 및 개발 과정 탐색 |
+| 🎨 UI/UX | 사용자 경험, 화면 구성, UI 디자인 |
+| 🌐 WEB | HTML / CSS 기반 웹 구현 |
+| 🤖 AI | AI를 활용한 디자인 및 개발 |
+| 🐍 PYTHON | Python 기초 및 데이터 처리 |
+| 📊 DATA | Pandas 기반 데이터 분석 |
+| 🧠 ML | Machine Learning 기초 학습 |
 
 ---
 
-### 현재 공부하고 있습니다
+## TOOLS
 
-- [x] GitHub 사용하기
-- [x] Python 기초 공부
-- [x] Pandas 기초 공부
-- [x] Machine Learning 기초 공부
-- [x] Git / GitHub 익히기
-- [ ] AI를 활용한 UI/UX 프로젝트 만들기
-- [ ] AI + Web 프로젝트 완성하기
-- [ ] 포트폴리오에 적용하기
+**Design**
+
+`Figma` `Photoshop` `Illustrator`
+
+**Web**
+
+`HTML` `CSS`
+
+**Data & AI**
+
+`Python` `Pandas` `Scikit-learn`
+
+**Version Control**
+
+`Git` `GitHub`
 
 ---
 
-### My Goal
+## STUDY & PROJECTS
 
-디자인과 기술을 함께 이해하고,
+### `lec_python`
 
-**사용자 경험을 고민하면서 직접 만들 수 있는 디자이너**가 되는 것을 목표로 하고 있습니다.
+Python 기초 문법부터 Pandas를 활용한 데이터 처리까지 공부하고 있습니다.
 
-```python
-print("Keep learning, keep creating.")
+### `lec_ml`
+
+Scikit-learn을 활용하여 머신러닝의 기본 개념과  
+데이터를 활용한 모델 학습 과정을 공부하고 있습니다.
+
+### `UI/UX PROJECTS`
+
+사용자의 목적과 경험을 중심으로 웹페이지와 서비스를 디자인하고 있습니다.
+
+---
+
+## CURRENTLY LEARNING
+
+```text
+UI/UX Design
+      ↓
+HTML · CSS
+      ↓
+Python · Pandas
+      ↓
+Machine Learning
+      ↓
+AI × Design
