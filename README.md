@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="./wide_minimalist_modern_portfolio_branding_banner.png" width="100%">
+  <img src="591ebe0a-3cd5-4112-8dab-6713addd0e09.png" width="100%">
 </p>
 # KIM TAEYOUNG
 
