@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./wide_minimalist_modern_portfolio_branding_banner.png" width="100%">
+
 
 <br>
 <br>
