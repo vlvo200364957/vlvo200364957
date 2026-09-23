@@ -1,295 +1,431 @@
+<!-- =========================================================
+     GitHub Profile README
+     Theme : Python × Machine Learning × MLOps
+     KIM TAEYOUNG
+========================================================= -->
+
 <div align="center">
 
-# KIM TAEYOUNG
+# 👾 Hi, I'm KIM TAEYOUNG.
 
-### AI Developer · Python · Machine Learning
+### `Python` × `Machine Learning` × `MLOps`
 
-<br>
-
-<p>
-Python과 데이터를 기반으로<br>
-Machine Learning과 AI 기술을 공부하며 직접 구현하고 있습니다.
-</p>
+**Learn → Build → Break → Debug → Improve → Ship**
 
 <br>
 
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/DATA-150458?style=flat-square&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
-<img src="https://img.shields.io/badge/AI-111111?style=flat-square">
-<img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white">
+![Python](https://img.shields.io/badge/Python-Learning%20%26%20Building-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-In%20Progress-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version%20Everything-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Building-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<br><br>
+
+### 👀 Profile Visitors
+
+![Profile Views](https://komarev.com/ghpvc/?username=vlvo200364957&label=VISITORS&style=for-the-badge)
 
 </div>
 
 ---
 
-## About Me
-
-Python과 데이터를 기반으로 **AI와 Machine Learning을 공부하고 있는 김태영입니다.**
-
-Python 기초부터 Pandas를 활용한 데이터 처리와 분석,
-데이터 시각화, Machine Learning까지 학습 범위를 넓혀가고 있습니다.
-
-배운 내용을 직접 코드로 작성하고 프로젝트로 만들어보면서
-AI 개발에 필요한 기본기를 쌓아가고 있습니다.
-
-<br>
-
-- 🐍 Python을 활용한 데이터 처리 및 분석
-- 📊 Pandas · NumPy를 활용한 데이터 분석
-- 📈 Matplotlib · Seaborn을 활용한 데이터 시각화
-- 🤖 Scikit-learn을 활용한 Machine Learning 학습
-- 💻 Git · GitHub를 활용한 코드 관리
-- 🚀 AI 기술을 활용한 프로젝트 개발을 목표로 공부하고 있습니다.
-
----
-
-## Tech Stack
-
-<div align="center">
-
-### Programming
-
-<img src="https://skillicons.dev/icons?i=python">
-
-<br><br>
-
-### Data Analysis
-
-<img src="https://skillicons.dev/icons?i=numpy,pandas">
-
-<br><br>
-
-### Machine Learning
-
-<img src="https://skillicons.dev/icons?i=sklearn">
-
-<br><br>
-
-### Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,pycharm,jupyter">
-
-</div>
-
----
-
-## What I Do
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🐍 Python
-
-Python을 기반으로 프로그래밍 기초와
-데이터 처리 방법을 학습하고 있습니다.
-
-`Python` `Function` `Lambda` `List` `Dictionary`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📊 Data Analysis
-
-Pandas와 NumPy를 활용하여
-데이터를 불러오고 정리하고 분석합니다.
-
-`Pandas` `NumPy` `DataFrame` `EDA`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤖 Machine Learning
-
-Scikit-learn을 활용하여
-머신러닝 모델의 기본 원리와 학습 과정을 공부하고 있습니다.
-
-`Regression` `Classification` `Clustering` `Random Forest` `K-Means`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧠 AI
-
-Machine Learning을 기반으로
-Generative AI와 AI Application 개발까지 학습 범위를 넓혀가고 있습니다.
-
-`AI` `Machine Learning` `Generative AI`
-
-</td>
-
-</tr>
-</table>
-
----
-
-## Study & Projects
-
-### 🐍 Python
-
-**Python Study**
-
-Python의 기본 문법부터 자료형, 함수, Lambda,
-List, Dictionary 등을 학습하고 있습니다.
-
-`Python` `Jupyter Notebook`
-
-<br>
-
----
-
-### 📊 Data Analysis
-
-**Python Data Analysis**
-
-Pandas와 NumPy를 활용하여 데이터를 불러오고,
-전처리하고 분석하는 과정을 공부하고 있습니다.
-
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
-
-<br>
-
----
-
-### 🤖 Machine Learning
-
-**Machine Learning Study**
-
-Scikit-learn을 활용하여 Regression,
-Classification, Clustering 등의 머신러닝 알고리즘을 학습하고 있습니다.
-
-`Python` `Scikit-learn` `Machine Learning`
-
-<br>
-
----
-
-### 🧠 AI Project
-
-**AI Application**
-
-Machine Learning과 Generative AI를 활용하여
-실제로 사용할 수 있는 AI 서비스를 만드는 것을 목표로 하고 있습니다.
-
-`Python` `AI` `Machine Learning` `Generative AI`
-
----
-
-## Currently Learning
-
-<div align="center">
-
-```text
-Python
-   ↓
-Pandas · NumPy
-   ↓
-Data Analysis
-   ↓
-Matplotlib · Seaborn
-   ↓
-Machine Learning
-   ↓
-Scikit-learn
-   ↓
-AI
-   ↓
-AI Application
+## 🧠 About Me
+
+```python
+developer = {
+    "name": "KIM TAEYOUNG",
+    "language": "Python",
+    "currently_learning": [
+        "Data Analysis",
+        "Machine Learning",
+        "MLOps",
+        "AI",
+        "Model Deployment"
+    ],
+    "mindset": "Learn by building",
+    "status": "Still upgrading..."
+}
+
+while True:
+    developer["status"] = "Learn → Build → Improve"
 ```
 
-</div>
+저는 단순히 기술을 **배우는 것**보다  
+직접 만들고, 실패하고, 다시 개선하면서  
+**개발자로 성장하는 과정**을 중요하게 생각합니다.
 
----
+현재는 **Python을 중심으로 Data Analysis, Machine Learning과 AI**를 학습하고 있습니다.
 
-## Learning Progress
-
-| Area | Technology |
-|---|---|
-| Programming | Python |
-| Data | Pandas · NumPy |
-| Visualization | Matplotlib · Seaborn |
-| Machine Learning | Scikit-learn |
-| Algorithms | Regression · Classification · Clustering |
-| ML Models | Random Forest · K-Means |
-| Development | Jupyter · PyCharm |
-| Version Control | Git · GitHub |
-| AI | Generative AI · AI Application |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vlvo200364957&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&text_color=555555&icon_color=333333">
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlvo200364957&layout=compact&hide_border=true&bg_color=ffffff&title_color=111111&text_color=555555">
-
-</div>
-
----
-
-## Repository
-
-<div align="center">
-
-<a href="https://github.com/vlvo200364957/AI-ML">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vlvo200364957&repo=AI-ML&hide_border=true&bg_color=ffffff&title_color=111111&text_color=555555&icon_color=333333">
-
-</a>
-
-</div>
-
----
-
-## Learning Roadmap
-
-<div align="center">
+앞으로는 모델을 만드는 것에서 끝나는 것이 아니라,
 
 ```text
-[✓] Python
-[✓] Pandas
-[✓] NumPy
-[✓] Data Analysis
-[✓] Matplotlib · Seaborn
-
-[→] Machine Learning
-[ ] Deep Learning
-[ ] Generative AI
-[ ] AI Application
-[ ] AI + Web
-[ ] AI Service Development
+Data
+  ↓
+Preprocessing
+  ↓
+Train
+  ↓
+Evaluate
+  ↓
+Track
+  ↓
+Package
+  ↓
+Deploy
+  ↓
+Monitor
+  ↓
+Improve
 ```
+
+까지 이어지는 전체 흐름을 이해하고  
+직접 구현하는 것을 목표로 하고 있습니다.
+
+---
+
+# ⚡ Current Focus
+
+```text
+🐍 Python
+     │
+     ├── Data Analysis
+     ├── Pandas / NumPy
+     ├── Data Visualization
+     │
+     └── Machine Learning
+            │
+            ├── Regression
+            ├── Classification
+            ├── Clustering
+            ├── Random Forest
+            └── K-Means
+                    │
+                    ▼
+                  🤖 AI
+                    │
+                    └── MLOps
+                           │
+                           ├── Experiment Tracking
+                           ├── Model Management
+                           ├── Docker
+                           ├── CI / CD
+                           └── Model Deployment
+```
+
+### Right Now
+
+- 🐍 Writing better **Python**
+- 📊 Learning **Data Analysis**
+- 🧠 Learning **Machine Learning**
+- 📈 Practicing **Pandas / NumPy**
+- 🌿 Practicing **Git / GitHub**
+- ⚙️ Exploring **MLOps**
+- 🐳 Studying **Docker & Containers**
+- 🚀 Turning notebooks into **real services**
+
+---
+
+# 🧪 Learning Path
+
+```text
+01. Python
+      ↓
+02. Data Analysis
+      ↓
+03. Pandas / NumPy
+      ↓
+04. Machine Learning
+      ↓
+05. Model Evaluation
+      ↓
+06. Git / GitHub
+      ↓
+07. Docker
+      ↓
+08. MLOps
+      ↓
+09. Model Serving
+      ↓
+10. Monitoring
+      ↓
+11. Continuous Improvement
+```
+
+> **A model is not finished when training ends.  
+> It is finished when people can actually use it.**
+
+---
+
+# 🛠 Tech Playground
+
+### Language
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Data & ML
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+### MLOps & Engineering
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+
+---
+
+# 🚀 Learning in Public
+
+이 GitHub는 완성된 결과만 보여주는 공간이 아닙니다.
+
+```text
+SUCCESS ✅
+FAILURE ❌
+DEBUG 🔧
+REFACTOR ♻️
+EXPERIMENT 🧪
+LEARNING 🧠
+```
+
+모두 기록합니다.
+
+> Yesterday's code is today's dataset for a better developer.
+
+---
+
+# 🎯 Current Mission
+
+```text
+[████████████████░░░░] Python
+[██████████████░░░░░░] Data Analysis
+[████████████░░░░░░░░] Machine Learning
+[████████░░░░░░░░░░░░] MLOps
+[██████░░░░░░░░░░░░░░] Docker
+[████░░░░░░░░░░░░░░░░] CI/CD
+[██░░░░░░░░░░░░░░░░░░] Monitoring
+```
+
+### 🔥 NOW
+
+`Python` · `Pandas` · `Machine Learning`
+
+### 🚀 NEXT
+
+`MLOps` · `Docker` · `MLflow` · `CI/CD`
+
+### 🧠 LATER
+
+`Model Serving` · `Monitoring` · `Production ML`
+
+---
+
+# 🗓 Weekly Dev Routine
+
+```text
+MON  🐍 Python / Data
+TUE  📊 Data Analysis
+WED  🧠 Machine Learning
+THU  ⚙️ MLOps / Docker
+FRI  🚀 Build Something
+SAT  🧪 Experiment
+SUN  📚 Review & Refactor
+```
+
+> 작은 Commit이 쌓여 결국 하나의 시스템이 됩니다.
+
+---
+
+# 📊 GitHub Status Report
+
+<div align="center">
+
+### 📈 GitHub Stats
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=vlvo200364957&show_icons=true&hide_border=true&theme=transparent"
+  height="165"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlvo200364957&layout=compact&hide_border=true&theme=transparent"
+  height="165"
+/>
 
 </div>
 
 ---
 
+# 🔥 Contribution Streak
+
 <div align="center">
 
-### KEEP LEARNING · KEEP BUILDING
+<img
+  src="https://streak-stats.demolab.com/?user=vlvo200364957&hide_border=true"
+  alt="GitHub Streak"
+/>
+
+</div>
+
+```text
+Total Contributions
+        +
+Current Streak
+        +
+Longest Streak
+```
+
+> 🔥 Keep the streak alive.
+
+---
+
+# 📈 Repository Update Activity
+
+### `Commit → Push → Repeat`
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vlvo200364957&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+이 그래프는 GitHub에서 발생한 최근 활동 흐름을 보여줍니다.
+
+```text
+Repository Update
+       ↓
+Commit
+       ↓
+Push
+       ↓
+Contribution
+       ↓
+Activity Graph
+```
+
+---
+
+# 🟢 GitHub Activity Status
+
+```text
+PROFILE        🟢 ONLINE
+PYTHON         🟢 LEARNING
+DATA           🟢 BUILDING
+MACHINE ML     🟢 BUILDING
+MLOPS          🟡 IN PROGRESS
+DOCKER         🟡 LEARNING
+CI/CD          🟡 NEXT
+MONITORING     ⚪ PLANNED
+```
+
+> Developer status: **Still compiling...**
+
+---
+
+# 🌱 Developer Philosophy
+
+```python
+def grow():
+    learn()
+    build()
+    fail()
+    debug()
+    refactor()
+    share()
+
+while alive:
+    grow()
+```
+
+제가 원하는 개발자는
+
+> **모든 것을 알고 있는 개발자가 아니라,  
+> 모르는 것을 발견했을 때  
+> 스스로 배우고 해결할 수 있는 개발자입니다.**
+
+---
+
+# 👨‍💻 Dev Log
+
+```text
+$ whoami
+> KIM TAEYOUNG
+
+$ role
+> AI Developer in Progress
+
+$ current_focus
+> Python + Machine Learning + MLOps
+
+$ github_status
+> Active
+
+$ learning_mode
+> ON
+
+$ next
+> Build something real.
+
+$ final_goal
+> Never stop upgrading.
+```
+
+---
+
+# 🧪 Git Playground
+
+```text
+Clone
+  ↓
+Branch
+  ↓
+Code
+  ↓
+Commit
+  ↓
+Push
+  ↓
+Pull Request
+  ↓
+Review
+  ↓
+Merge
+  ↓
+Repeat 🚀
+```
+
+---
+
+# 🎮 Today's Developer Quest
+
+- [x] Learn something
+- [x] Make a Commit
+- [ ] Break something
+- [ ] Debug it
+- [ ] Refactor it
+- [ ] Ship it 🚀
+
+---
+
+<div align="center">
+
+## ⚡ Don't just learn it. Build it.
+
+### `CODE` → `DATA` → `MODEL` → `DEPLOY` → `IMPROVE`
 
 <br>
 
-KIM TAEYOUNG
+![Profile Views](https://komarev.com/ghpvc/?username=vlvo200364957&label=PROFILE+VIEWS&style=flat-square)
 
 <br><br>
 
-<img src="https://img.shields.io/badge/AI-Developer-111111?style=flat-square">
-<img src="https://img.shields.io/badge/Python-Developer-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Machine-Learning-F7931E?style=flat-square">
+### 🐍 Python Developer in Progress
+
+### 🤖 Learning Machine Learning & MLOps
+
+### 🚀 Build something today.
 
 </div>
