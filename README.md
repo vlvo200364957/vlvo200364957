@@ -1,5 +1,7 @@
 <div align="center">
-
+<p align="center">
+  <img src="./wide_minimalist_modern_portfolio_branding_banner.png" width="100%">
+</p>
 # KIM TAEYOUNG
 
 ### UI/UX Designer · AI & Web Learner
