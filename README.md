@@ -1,11 +1,23 @@
 <div align="center">
 
-# Hi, I'm haemgu3114
+# KIM TAEYOUNG
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=650&lines=Learning+Python+%26+Machine+Learning;Exploring+Data+Analysis+Step+by+Step;Building+Projects+and+Learning+Every+Day)](https://git.io/typing-svg)
+### UI/UX Designer · AI · Web
 
-데이터를 직접 다뤄보고, 코드를 실행하면서 하나씩 배우고 있습니다.  
-Python 기초부터 데이터 분석, 머신러닝, 간단한 웹 개발까지 기록하고 있습니다.
+<br>
+
+<p>
+사용자의 경험을 고민하고,<br>
+디자인과 기술을 함께 배우며 직접 만들어가고 있습니다.
+</p>
+
+<br>
+
+<img src="https://img.shields.io/badge/UI%2FUX-111111?style=flat-square">
+<img src="https://img.shields.io/badge/WEB-333333?style=flat-square">
+<img src="https://img.shields.io/badge/AI-555555?style=flat-square">
+<img src="https://img.shields.io/badge/PYTHON-777777?style=flat-square">
+<img src="https://img.shields.io/badge/DATA-999999?style=flat-square">
 
 </div>
 
@@ -13,61 +25,170 @@ Python 기초부터 데이터 분석, 머신러닝, 간단한 웹 개발까지 �
 
 ## About Me
 
-- Python을 중심으로 프로그래밍을 학습하고 있습니다.
-- Jupyter Notebook으로 데이터 분석과 머신러닝 실습을 정리합니다.
-- 데이터 전처리, 시각화, 모델 학습 과정을 직접 구현하며 공부하고 있습니다.
-- Flask를 활용한 간단한 웹 애플리케이션도 실습하고 있습니다.
+안녕하세요. **UI/UX Designer를 목표로 공부하고 있는 김태영입니다.**
+
+디자인에만 머무르지 않고 웹과 Python, 데이터, 머신러닝까지
+배우며 디자인과 기술을 함께 활용할 수 있는 방법을 공부하고 있습니다.
+
+<br>
+
+- 🎨 UI/UX 디자인과 사용자 경험을 공부하고 있습니다.
+- 💻 HTML / CSS를 활용한 웹 구현을 공부하고 있습니다.
+- 🐍 Python과 Pandas를 활용한 데이터 분석을 공부하고 있습니다.
+- 🤖 Machine Learning과 AI 기술을 공부하고 있습니다.
+- 🚀 배운 내용을 직접 프로젝트로 만들어보며 경험을 쌓고 있습니다.
+
+---
 
 ## Tech Stack
 
 <div align="center">
 
-### Language & Data
+### Design
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://skillicons.dev/icons?i=figma,ps,ai">
 
-### Machine Learning & Visualization
+<br><br>
 
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge">
+### Web
 
-### Web & Tools
+<img src="https://skillicons.dev/icons?i=html,css">
 
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<br><br>
 
-</div>
+### Data · AI
 
-## Study & Projects
+<img src="https://skillicons.dev/icons?i=python,pandas,sklearn">
 
-### Python / Data / Machine Learning
+<br><br>
 
-[![Pyhon_workspace](https://img.shields.io/badge/Pyhon__workspace-View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/haemgu3114/Pyhon_workspace)
+### Tools
 
-Python 기초 문법부터 pandas DataFrame, 데이터 전처리, Matplotlib·Seaborn 시각화, 머신러닝 기초까지 학습 내용을 기록하는 저장소입니다.
-
-### Git & GitHub Practice
-
-Git과 GitHub의 기본 흐름을 익히면서 commit, push, repository 관리 등을 연습하고 있습니다.
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=haemgu3114&show_icons=true&hide_border=true&theme=transparent" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haemgu3114&layout=compact&hide_border=true&theme=transparent" />
+<img src="https://skillicons.dev/icons?i=git,github">
 
 </div>
 
 ---
 
+## What I Do
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎨 UI / UX
+
+사용자의 입장에서 생각하고  
+서비스의 흐름과 화면을 설계합니다.
+
+`Figma` `UI Design` `UX`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💻 Web
+
+디자인한 화면을 실제 웹으로 구현하며  
+HTML과 CSS를 공부하고 있습니다.
+
+`HTML` `CSS` `Responsive Web`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 AI
+
+AI를 디자인과 개발 과정에 활용하며  
+새로운 작업 방식을 탐색하고 있습니다.
+
+`AI` `Generative AI`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🐍 Data
+
+Python을 활용해 데이터를 다루고  
+머신러닝의 기본 개념을 공부하고 있습니다.
+
+`Python` `Pandas` `Machine Learning`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## Study & Projects
+
+### 🎨 UI/UX Design
+
+**[PROJECT NAME]**
+
+UI/UX 디자인을 중심으로 진행한 프로젝트입니다.
+
+`Figma` `UI/UX` `Web Design`
+
+<br>
+
+---
+
+### 💻 Web Design & Development
+
+**[PROJECT NAME]**
+
+웹페이지의 구조를 설계하고 직접 구현한 프로젝트입니다.
+
+`HTML` `CSS` `Responsive`
+
+<br>
+
+---
+
+### 🤖 AI × Design
+
+**[PROJECT NAME]**
+
+AI 기술을 디자인 과정에 활용해 새로운 사용자 경험을 만들어보는 프로젝트입니다.
+
+`AI` `UI/UX` `Generative AI`
+
+<br>
+
+---
+
+### 🐍 Python & Machine Learning
+
+**[PROJECT NAME]**
+
+Python과 데이터를 활용해 분석 및 머신러닝을 공부한 프로젝트입니다.
+
+`Python` `Pandas` `Scikit-learn`
+
+---
+
+## Currently Learning
+
 <div align="center">
 
-### Keep learning, keep building.
-
-</div>
+```text
+UI / UX
+   ↓
+HTML · CSS
+   ↓
+Python · Pandas
+   ↓
+Machine Learning
+   ↓
+AI
+   ↓
+AI × Design
